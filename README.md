@@ -11,4 +11,4 @@ A flutter application to access latest call log from phone .
 step 1 : Go to your terminal and write flutter pub get
 
 step 2 : Connect your device and run the application
->>>>>> (added files)
+
